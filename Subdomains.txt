@@ -10,3 +10,4 @@ http://www.xn--fbs.com          ==> 200
 http://img.fbs.com              ==> 200
 http://mail.fbs.com             ==> 200
 https://emarketing.fbs.com.tw   ==> 200
+http://multimedia.email.fbs.com ==> 404

@@ -6,3 +6,5 @@ http://my.fbs.com               ==> 200
 http://my.fbs.com               ==> 200
 http://www.xn--fbs.com          ==> 200
 http://img.fbs.com              ==> 200
+http://agw.fbs.com              ==> 404
+
